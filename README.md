@@ -12,7 +12,7 @@ Machine Learning Intern @Prodigy Infotech
 Database Intern @Psyliq
 - Conducted comprehensive data analysis on pharmaceutical datasets using SQL by working on the project Pharma data analysis using SQL.
 
-Data Science Intern @Bharat Intern 
+Data Science Intern @Bharat Intern [ProjectFiles](https://github.com/Dij-dom/Prodigy)
 - Developed and deployed predictive models and explored various EDA techniques through the following projects like Fake News Detector using Logistic Regression, Email Spam Classifier and a Cat vs. Dog Image Classifier.
 
 # Education
@@ -38,5 +38,5 @@ Data Science Intern @Bharat Intern
 - Introduction to Image Processing in Python (Christ University)
 - Python for Data Science Workshop (Bootcamp) 
 
-
+![Visit](/assests/pic.jpg)
 
