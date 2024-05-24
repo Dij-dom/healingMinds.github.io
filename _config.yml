@@ -3,3 +3,9 @@ logo: /assets/new_picture.jpg
 description: MSc Data Science
 show_downloads: False
 theme: jekyll-theme-minimal
+author:
+  name: Dijin Dominic
+  bio: MSc Data Science student passionate about leveraging data for insights and innovation.
+  email: dijin1906@gmail.com
+  social:
+    linkedin: www.linkedin.com/in/dijin-dominic
